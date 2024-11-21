@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "300687956824",
+    "project_id": "computerclubbase",
+    "storage_bucket": "computerclubbase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300687956824:android:bd962ce6490a8b6bdea32d",
+        "android_client_info": {
+          "package_name": "com.example.computer_club_vladimir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMgplrR1Sn6ExxUClRdAEChiPv1ZHDlIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
